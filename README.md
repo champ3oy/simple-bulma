@@ -24,14 +24,14 @@ import 'simple-bulma'
 ...
 render () {
  return (
-  <View>
+  <div>
     ....
     // for a primary button
     <button className="button is-primary" > Click Me</button>
 
     // for a heading
     <p className="title is-2">This is a Heading</p>
-  </View>
+  </div>
 
  )
 }
