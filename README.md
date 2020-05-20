@@ -8,8 +8,12 @@ The simplest way to use Bulma UI in your react apps.
 
 Use the package manager [npm](https://npmjs.com) to install simple-bulma.
 
-```bash
+```sh
 npm install simple-bulma
+```
+or
+```sh
+yarn add simple-bulma
 ```
 
 ## Usage
